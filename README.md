@@ -1,0 +1,2 @@
+# awstemplate
+automation
